@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="shiguangkeys" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="shiguangkeys">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/shiguangkeyll" local="$PROJECT_DIR$" web="/index" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
